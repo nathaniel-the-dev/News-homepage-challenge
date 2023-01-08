@@ -36,7 +36,7 @@
                 <li><a href="#" class="hover:text-soft-red transition-colors">Categories</a></li>
             </ul>
 
-            <button class="lg:hidden" id="btn-menu-open">
+            <button class="lg:hidden" id="btn-menu-open" title="Open menu">
                 <svg width="40" height="17">
                     <image href="./assets/images/icon-menu.svg" />
                 </svg>
@@ -44,8 +44,8 @@
         </nav>
 
         <div class="bg-very-dark-blue group lg:hidden aria-hidden:opacity-0 aria-hidden:pointer-events-none fixed inset-0 transition duration-300 bg-opacity-50"
-            id="mobile-menu" aria-hidden="true">
-            <button class="top-6 right-4 absolute" id="btn-menu-close">
+            role="menu" id="mobile-menu" aria-hidden="true">
+            <button class="top-6 right-4 absolute" id="btn-menu-close" title="Close menu">
                 <svg width="32" height="31">
                     <image href="./assets/images/icon-menu-close.svg"></image>
                 </svg>
