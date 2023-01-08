@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://news-homepage-challenge-nine.vercel.app/#)
+-   Solution URL: [Solution](https://www.frontendmentor.io/solutions/news-homepage-HHMlx0Vp05)
+-   Live Site URL: [Live Site](https://news-homepage-challenge-nine.vercel.app/)
 
 ## My process
 
